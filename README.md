@@ -1,5 +1,5 @@
 # Unity3D——homework8
-### -----scripts
+### -----Assets
 ### -----Readme.md
 
 博客地址：  
